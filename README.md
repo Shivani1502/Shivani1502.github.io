@@ -18,32 +18,45 @@ I am a Backend engineer with an experience of over 3 years. I have hands on expe
 
 ## Experience
 
-### **SOFTWARE DEVELOPER ENGINEER**
-### MIRO
+# Siemens Technology India Private Limited
+## **Software Developer Engineer**
+  ### NSTI Chennai Mindsphere Application (07/2021 - Present)
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+  Interaction with the client at all stages of development to deliver the requirements.
+  Implementing business logics using spring boot.
+  Developed user stories to change the existing functionality to domain specific.
+  Handling API request by performing error handling in order to receive correct response.
+  Used Log4J Framework for Logging Framework.
+  Working on UAT Environments to test the Java Code and deploying the code on Production Environment.
+  Deploying and Registering the app on Mindsphere using Cloud Foundry.
 
-### **FRONTEND DEVELOPER**
-### Booking.com
+# Cognizant Technology Solutions
+## **Programmer Analyst**
+### Simple Network Management Protocol (SNMP) Microservice (08/2020 - 06/2021)
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
+To interact with the client for gathering client requirements and developing business logics.
+Worked on various enhancements and user stories.
+Implementing business logics using JAVA as per the client’s requirement.
+Writing JUnits and Mockitos for the code testing scenarios.
+Aligning the code standards to meet the reusable and robust application development.
 
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
+### Pass Through System (PTS) Microservices (05/2019 - 07/2020)
 
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
+To interact with the client for gathering client requirements and developing business logics.
+To understand the code flow and debugging it.
+Writing JUnits and Mockitos for the code testing scenarios. Worked on Fortify issues and Blackduck issues.
 
 ---
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **Punjab Technical University**
+### BTech Electronics and Communication
+GPA 9.25
 
 ---
 
 ### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
+Apart from being a developer, I do have interest in exploring different types of Gadgets in the market .
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures.
