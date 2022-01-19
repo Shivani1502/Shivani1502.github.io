@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a Backend engineer with an experience of over 3 years. I have hands on experience working with Java and Springframeworks and technologies. I have extensively worked on Java and Spring Boot for 3 years.
+I am a Backend engineer with an experience of over 3 years. I have hands on experience working with Java and Spring frameworks and technologies. I have extensively worked on Java and Spring Boot for 3 years.
 
 ---
 
