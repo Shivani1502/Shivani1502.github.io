@@ -16,11 +16,11 @@ I am a Backend engineer with an experience of over 3 years. I have hands on expe
 
 ---
 
-## Experience
+# Experience
 
-# Siemens Technology India Private Limited
-## **Software Developer Engineer**
-### NSTI Chennai Mindsphere Application (07/2021 - Present)
+## Siemens Technology India Private Limited
+### **Software Developer Engineer**
+#### NSTI Chennai Mindsphere Application (07/2021 - Present)
 
   Interaction with the client at all stages of development to deliver the requirements.
   Implementing business logics using spring boot.
@@ -30,9 +30,9 @@ I am a Backend engineer with an experience of over 3 years. I have hands on expe
   Working on UAT Environments to test the Java Code and deploying the code on Production Environment.
   Deploying and Registering the app on Mindsphere using Cloud Foundry.
 
-# Cognizant Technology Solutions
-## **Programmer Analyst**
-### Simple Network Management Protocol (SNMP) Microservice (08/2020 - 06/2021)
+## Cognizant Technology Solutions
+### **Programmer Analyst**
+#### Simple Network Management Protocol (SNMP) Microservice (08/2020 - 06/2021)
 
 To interact with the client for gathering client requirements and developing business logics.
 Worked on various enhancements and user stories.
@@ -40,7 +40,7 @@ Implementing business logics using JAVA as per the client’s requirement.
 Writing JUnits and Mockitos for the code testing scenarios.
 Aligning the code standards to meet the reusable and robust application development.
 
-### Pass Through System (PTS) Microservices (05/2019 - 07/2020)
+#### Pass Through System (PTS) Microservices (05/2019 - 07/2020)
 
 To interact with the client for gathering client requirements and developing business logics.
 To understand the code flow and debugging it.
